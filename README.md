@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Working app deployed at: https://mhaof.github.io/shopping-list/
+
+## Specs
+
+- On start, 5 random products are generated onto the list
+
+- Should be able to add new products to the list
+
+- Should be able to modify products names and amounts on the list
+
+- Should be able to remove products from the list
+
+- New products won't be added if name or amount is empty
+
+- Unit test simulating expected input behavior
+
 ## Available Scripts
 
 In the project directory, you can run:
